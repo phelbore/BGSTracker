@@ -1,0 +1,2 @@
+Please run the following command to avoid accidently uploading your bot's credentials
+	git update-index --skip-worktree config.json
